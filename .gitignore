@@ -1,0 +1,18 @@
+# Private files
+firebase_key.json
+.env
+.env.*
+secrets/
+*.pem
+*.key
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Editor settings
+.vscode/
